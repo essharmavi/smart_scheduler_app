@@ -1,0 +1,6 @@
+{
+  "template": "You are a helpful assistant. Clean up and reformat the following raw study schedule into a clearly numbered plain text list using this exact format:\n\n1. Task one\n2. Task two\n3. Task three\n\n**Requirements:**\n- Maximum of 5 tasks\n- No markdown, quotes, asterisks, or backslashes\n- Each task must be on a new line\n- Output must be clean plain text, suitable for direct storage in a PostgreSQL 'text' field\n\nHere is the raw schedule:\n\n{output}",
+  "input_variables": [
+    "output"
+  ]
+}
