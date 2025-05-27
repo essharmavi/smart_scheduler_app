@@ -64,7 +64,7 @@ This AI-powered app helps you plan your daily study tasks based on how much time
   ```bash
   streamlit run frontend.py
 
-  ## How to Use
+## How to Use
 
 1. Input your available study hours, current workload, and mood.  
 2. The app generates a personalized study schedule.  
